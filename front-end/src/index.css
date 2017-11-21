@@ -1,0 +1,38 @@
+body {
+    margin: auto;
+    padding: 0;
+    font-family: sans-serif;
+    background: #f1f1f1;
+}
+.App {
+
+    display: grid;
+}
+button {
+    border: 0px solid grey;
+    border-radius: 2px;
+    padding: 6px 17px;
+    box-shadow: 0px 1px 2px lightgrey;
+    background: white;
+    cursor: pointer;
+    color: #5a5a5a;
+
+}
+
+.btn-danger {
+    background: #c56861;
+    color: white;
+}
+
+
+.main-body-card {
+    margin: auto;
+    text-align: center;
+    background: white;
+    width: 40%;
+    padding: 1em;
+    border-radius: 8px;
+    box-shadow: 0px 2px 6px -1px lightgrey;
+}
+
+
